@@ -10,7 +10,7 @@ const HomePage: React.FunctionComponent<IHomePageProps> = (props) => {
         <div>
             <p>This is the home page.</p>
             <p>
-                <Link to="/about">Go to the About Page!</Link>
+                <Link to="/about">Go to the About Page! demo</Link>
             </p>
             
         </div>
